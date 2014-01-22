@@ -1,0 +1,156 @@
+
+#social li{
+list-style:none; display:inline-block;
+}
+
+#social li{
+margin:1px!important;
+padding:0px!important;
+}
+
+ul.isocial li a{
+	float:left;
+	background-image:url('../img/socialletter.png');
+	background-position:0 0;
+	background:repeat:no-repeat;
+	display:inline-block;
+	text-indent:-9999px;
+	overflow:hidden;
+	width:24px;
+	height:24px;
+	position:relative;
+}
+
+ul.isocial li a.rss{background-position:0 0}
+ul.isocial li a.rss:hover{
+	background-position:0 -24px; 
+	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+ul.isocial li a.facebook{background-position:-25px 0}
+ul.isocial li a.facebook:hover{
+	background-position:-25px -24.5px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+ul.isocial li a.twitter{
+	background-position:-50px 0}
+ul.isocial li a.twitter:hover{
+	background-position:-50px -24.5px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+ul.isocial li a.google{background-position:-75px 0}
+ul.isocial li a.google:hover{
+	background-position:-75px -24.5px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+ul.isocial li a.youtube{background-position:-100px 0}
+ul.isocial li a.youtube:hover{
+	background-position:-100px -24.5px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+
+ul.isocial li a.instagram{background-position:-125px 0}
+ul.isocial li a.instagram:hover{
+	background-position:-125px -25.0px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+    
+    
+ul.isocial li a.vkontakte{background-position:-150px 0}
+ul.isocial li a.vkontakte:hover{
+	background-position:-150px -25.0px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+     
+ul.isocial li a.odnru{background-position:-175px 0}
+ul.isocial li a.odnru:hover{
+	background-position:-175px -25.0px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+     
+ul.isocial li a.nk{background-position:-200px 0}
+ul.isocial li a.nk:hover{
+	background-position:-200px -25.0px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+     
+ul.isocial li a.flickr{background-position:-225px 0}
+ul.isocial li a.flickr:hover{
+	background-position:-225px -25.0px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+     
+     
+ul.isocial li a.linkedin{background-position:-250px 0}
+ul.isocial li a.linkedin:hover{
+	background-position:-250px -25.0px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+    
+ul.isocial li a.pinterest{background-position:-275px 0}
+ul.isocial li a.pinterest:hover{
+	background-position:-275px -25.0px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+     
+ul.isocial li a.myspace{background-position:-300px 0}
+ul.isocial li a.myspace:hover{
+	background-position:-300px -25.0px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+     
+ul.isocial li a.lastfm{background-position:-325px 0}
+ul.isocial li a.lastfm:hover{
+	background-position:-325px -25.0px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+     
+ul.isocial li a.yelp{background-position:-350px 0}
+ul.isocial li a.yelp:hover{
+	background-position:-350px -25.0px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+     
+ul.isocial li a.picsart{background-position:-375px 0}
+ul.isocial li a.picsart:hover{
+	background-position:-375px -25.0px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+
+ul.isocial li a.tumblr{background-position:-400px 0}
+ul.isocial li a.tumblr:hover{
+	background-position:-400px -25.0px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+     
+ul.isocial li a.digg{background-position:-425px 0}
+ul.isocial li a.digg:hover{
+	background-position:-425px -25.0px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+     
+ul.isocial li a.wordpress{background-position:-450px 0}
+ul.isocial li a.wordpress:hover{
+	background-position:-450px -25.0px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}  
+
+ul.isocial li a.deviantart{background-position:-475px 0}
+ul.isocial li a.deviantart:hover{
+	background-position:-475px -25.0px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+     
+ul.isocial li a.weibo{background-position:-500px 0}
+ul.isocial li a.weibo:hover{
+	background-position:-500px -25.0px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+
+ul.isocial li a.qzone{background-position:-525px 0}
+ul.isocial li a.qzone:hover{
+	background-position:-525px -25.0px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+    
+ul.isocial li a.formspring{background-position:-550px 0}
+ul.isocial li a.formspring:hover{
+	background-position:-550px -25.0px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+    
+ul.isocial li a.blogger{background-position:-575px 0}
+ul.isocial li a.blogger:hover{
+	background-position:-575px -25.0px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+
+ul.isocial li a.ljournal{background-position:-600px 0}
+ul.isocial li a.ljournal:hover{
+	background-position:-600px -25.0px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+     
+ul.isocial li a.ask{background-position:-625px 0}
+ul.isocial li a.ask:hover{
+	background-position:-625px -25.0px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}
+                   
+ul.isocial li a.orkut{background-position:-650px 0}
+ul.isocial li a.orkut:hover{
+	background-position:-650px -25.0px; 
+ 	transition:background-position 0.2s ease; -moz-transition: 0.2s ease; -webkit-transition: 0.2s ease; -o-transition: 0.2s ease;}                   
