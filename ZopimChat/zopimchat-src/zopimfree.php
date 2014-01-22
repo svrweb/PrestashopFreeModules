@@ -5,7 +5,7 @@ class zopimfree extends Module {
 		$this->name = 'zopimfree';
 		$this->tab = 'front_office_features';
 		$this->version = '1.4';
-        $this->author= 'mypresta.eu';
+        $this->author= '';
         $this->dir = '/modules/zopimfree/';
 		parent::__construct();
 		$this->displayName = $this->l('Zopim Chat Free');
