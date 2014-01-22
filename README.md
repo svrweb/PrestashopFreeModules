@@ -1,7 +1,12 @@
 PrestashopFreeModules
 =====================
 
-Prestashop Free Modules
+Prestashop Free Modules - This repo provides the source of the various prestashop modules available for free.
+
+it's an effort to group them and socialize code that we build together to make better (and faster) addons.
+
+Thanksful to the efforts made by each developer and now it's time to take to next level.
+
 
 List of Modules:
 
