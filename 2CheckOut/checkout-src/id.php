@@ -1,0 +1,35 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{checkout}prestashop>checkout_944d100c0b155ee4f8107078489aee19'] = 'Menerima pembayaran dengan 2CheckOut';
+$_MODULE['<{checkout}prestashop>checkout_525abb8c8f145033184b3cea650336cc'] = 'Anda 2CheckOut vendor nomor rekening harus dikonfigurasi untuk menggunakan modul ini dengan benar';
+$_MODULE['<{checkout}prestashop>checkout_1d252f6089b4ca8c5c36da01d0809f6a'] = 'Anda Vendor Nomor Rekening diperlukan.';
+$_MODULE['<{checkout}prestashop>checkout_180f0e85dd3029ebb195ed78e91804e4'] = 'setidaknya satu mata uang yang diperlukan.';
+$_MODULE['<{checkout}prestashop>checkout_a60852f204ed8028c1c58808b746d115'] = 'OK';
+$_MODULE['<{checkout}prestashop>checkout_597582c140dd691b522fe42299a24d34'] = 'Pengaturan Diperbarui';
+$_MODULE['<{checkout}prestashop>checkout_b57dd06c52ca88ebd272ede4a1dab469'] = 'Modul ini memungkinkan Anda untuk menerima pembayaran menggunakan jasa 2CheckOut merchant.';
+$_MODULE['<{checkout}prestashop>checkout_ed75d547c46f18533bf0082a7b28b5fc'] = '2CheckOut  \'s layanan perbankan online bisa menjadi solusi yang tepat untuk Anda';
+$_MODULE['<{checkout}prestashop>checkout_7f142451e48ce13d1d9bd752886eefc7'] = '2CheckOut Setup';
+$_MODULE['<{checkout}prestashop>checkout_9fe4c6e963dcaaf96367c0dc715792ad'] = 'Silakan tentukan nomor rekening 2CheckOut';
+$_MODULE['<{checkout}prestashop>checkout_2fcecaf04456ae2ceac826fd0ccaaf1c'] = 'Nomor Rekening';
+$_MODULE['<{checkout}prestashop>checkout_dfcfc43722eef1eab1e4a12e50a068b1'] = 'Mata Uang';
+$_MODULE['<{checkout}prestashop>checkout_b17f3f4dcf653a5776792498a9b44d6a'] = 'Pengaturan pembaruan';
+$_MODULE['<{checkout}prestashop>checkout_5b316b300d4b8563b12721405adee986'] = 'Mata uang resmi untuk pembayaran 2CheckOut';
+$_MODULE['<{checkout}prestashop>checkout_4d99e33e0cfc8cfca786e285f70be1ef'] = 'Mata uang dasar';
+$_MODULE['<{checkout}prestashop>checkout_f2f91b28eae52fbdf3a30ce53dfb7516'] = 'Bayar dengan kartu kredit - verifikasi Instantant dengan 2CO (pembayaran yang aman)';
+$_MODULE['<{checkout}prestashop>payment_adb719b17c2b37083a7d4ec355f14d90'] = 'Pay oleh checkout';
+$_MODULE['<{checkout}prestashop>payment_d9589afbfec65675319a40a4783eb856'] = 'Bayar dengan Credit / kartu debit - validasi Online (100% aman oleh 2CheckOut)';
+$_MODULE['<{checkout}prestashop>payment_execution_ea9cf7e47ff33b2be14e6dd07cbcefc6'] = 'Pengiriman';
+$_MODULE['<{checkout}prestashop>payment_execution_0e26563ef77954a4d31f964c1a7e79f7'] = 'Pembayaran Kartu Kredit Ringkasan';
+$_MODULE['<{checkout}prestashop>payment_execution_905bb99d6810785097072b29035cf9e1'] = 'Buy On-Line dengan Kartu Kredit atau Debit via 2CheckOut.';
+$_MODULE['<{checkout}prestashop>payment_execution_5371cf5cc1f634c9040bae723f14b7cc'] = '2CheckOut';
+$_MODULE['<{checkout}prestashop>payment_execution_8f23d092d7207c09f0e572bea6514813'] = 'Anda telah memilih untuk membayar dengan kartu kredit - validasi Online.';
+$_MODULE['<{checkout}prestashop>payment_execution_0881a11f7af33bc1b43e437391129d66'] = 'Harap konfirmasikan pesanan Anda dengan mengklik  \"Saya menegaskan pesanan saya  \'';
+$_MODULE['<{checkout}prestashop>payment_execution_569fd05bdafa1712c4f6be5b153b8418'] = 'Lain metode pembayaran';
+$_MODULE['<{checkout}prestashop>payment_execution_46b9e3665f187c739c55983f757ccda0'] = 'Saya menegaskan pesanan saya';
+$_MODULE['<{checkout}prestashop>payment_execution_dd1f775e443ff3b9a89270713580a51b'] = 'Sebelumnya';
+$_MODULE['<{checkout}prestashop>payment_return_29165718380da01e17ddf829b060dcbc'] = 'Pesanan Anda telah selesai. Kami sedang mempersiapkan untuk mengirimkan produknya segera.';
+$_MODULE['<{checkout}prestashop>payment_return_0db71da7150c27142eef9d22b843b4a9'] = 'Untuk setiap pertanyaan atau untuk informasi lebih lanjut, silahkan hubungi kami';
+$_MODULE['<{checkout}prestashop>payment_return_64430ad2835be8ad60c59e7d44e4b0b1'] = 'dukungan pelanggan';
+$_MODULE['<{checkout}prestashop>payment_return_8de637e24570c1edb0357826a2ad5aea'] = 'Kami melihat masalah dengan pesanan Anda. Jika Anda pikir ini adalah kesalahan, Anda dapat menghubungi kami';

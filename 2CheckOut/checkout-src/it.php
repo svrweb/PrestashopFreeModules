@@ -1,0 +1,35 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{checkout}prestashop>checkout_944d100c0b155ee4f8107078489aee19'] = 'Accetta pagamenti con 2Checkout';
+$_MODULE['<{checkout}prestashop>checkout_525abb8c8f145033184b3cea650336cc'] = 'il numero di vendor 2Checkout conto deve essere configurato per utilizzare questo modulo correttamente';
+$_MODULE['<{checkout}prestashop>checkout_1d252f6089b4ca8c5c36da01d0809f6a'] = 'Il tuo fornitore Account Number è obbligatorio.';
+$_MODULE['<{checkout}prestashop>checkout_180f0e85dd3029ebb195ed78e91804e4'] = 'almeno una valuta che è necessario.';
+$_MODULE['<{checkout}prestashop>checkout_a60852f204ed8028c1c58808b746d115'] = 'Ok';
+$_MODULE['<{checkout}prestashop>checkout_597582c140dd691b522fe42299a24d34'] = 'Impostazioni Aggiornato';
+$_MODULE['<{checkout}prestashop>checkout_b57dd06c52ca88ebd272ede4a1dab469'] = 'Questo modulo permette di accettare pagamenti tramite servizi mercantili 2Checkout.';
+$_MODULE['<{checkout}prestashop>checkout_ed75d547c46f18533bf0082a7b28b5fc'] = '2Checkout  \'s servizio online banking potrebbe essere la soluzione giusta per voi';
+$_MODULE['<{checkout}prestashop>checkout_7f142451e48ce13d1d9bd752886eefc7'] = '2Checkout Setup';
+$_MODULE['<{checkout}prestashop>checkout_9fe4c6e963dcaaf96367c0dc715792ad'] = 'Si prega di specificare il numero di conto 2Checkout';
+$_MODULE['<{checkout}prestashop>checkout_2fcecaf04456ae2ceac826fd0ccaaf1c'] = 'Numero di conto';
+$_MODULE['<{checkout}prestashop>checkout_dfcfc43722eef1eab1e4a12e50a068b1'] = 'Valute';
+$_MODULE['<{checkout}prestashop>checkout_b17f3f4dcf653a5776792498a9b44d6a'] = 'Aggiornare le impostazioni';
+$_MODULE['<{checkout}prestashop>checkout_5b316b300d4b8563b12721405adee986'] = 'Valute autorizzate per il pagamento 2Checkout';
+$_MODULE['<{checkout}prestashop>checkout_4d99e33e0cfc8cfca786e285f70be1ef'] = 'Autorizzato valute';
+$_MODULE['<{checkout}prestashop>checkout_f2f91b28eae52fbdf3a30ce53dfb7516'] = 'Paga con carta di credito - verifica Instantant con 2CO (pagamento sicuro)';
+$_MODULE['<{checkout}prestashop>payment_adb719b17c2b37083a7d4ec355f14d90'] = 'Pay by checkout';
+$_MODULE['<{checkout}prestashop>payment_d9589afbfec65675319a40a4783eb856'] = 'Paga con carta di credito / debito - la convalida online (sicuro al 100% da 2Checkout)';
+$_MODULE['<{checkout}prestashop>payment_execution_ea9cf7e47ff33b2be14e6dd07cbcefc6'] = 'Spedizione';
+$_MODULE['<{checkout}prestashop>payment_execution_0e26563ef77954a4d31f964c1a7e79f7'] = 'Carta di credito pagamento Sintesi';
+$_MODULE['<{checkout}prestashop>payment_execution_905bb99d6810785097072b29035cf9e1'] = 'Acquista On-Line con carta di credito o debito tramite 2Checkout.';
+$_MODULE['<{checkout}prestashop>payment_execution_5371cf5cc1f634c9040bae723f14b7cc'] = '2checkout';
+$_MODULE['<{checkout}prestashop>payment_execution_8f23d092d7207c09f0e572bea6514813'] = 'Hai scelto di pagare con carta di credito - validazione online.';
+$_MODULE['<{checkout}prestashop>payment_execution_0881a11f7af33bc1b43e437391129d66'] = 'Si prega di confermare l\'ordine facendo clic su  \'confermo il mio ordine \'';
+$_MODULE['<{checkout}prestashop>payment_execution_569fd05bdafa1712c4f6be5b153b8418'] = 'Altri metodi di pagamento';
+$_MODULE['<{checkout}prestashop>payment_execution_46b9e3665f187c739c55983f757ccda0'] = 'Confermo il mio ordine';
+$_MODULE['<{checkout}prestashop>payment_execution_dd1f775e443ff3b9a89270713580a51b'] = 'Precedente';
+$_MODULE['<{checkout}prestashop>payment_return_29165718380da01e17ddf829b060dcbc'] = 'Il tuo ordine è stato completato. Ci stiamo preparando a inviare immediatamente il suo prodotto.';
+$_MODULE['<{checkout}prestashop>payment_return_0db71da7150c27142eef9d22b843b4a9'] = 'Per eventuali domande o per ulteriori informazioni, si prega di contattare il nostro';
+$_MODULE['<{checkout}prestashop>payment_return_64430ad2835be8ad60c59e7d44e4b0b1'] = 'l\'assistenza clienti';
+$_MODULE['<{checkout}prestashop>payment_return_8de637e24570c1edb0357826a2ad5aea'] = 'Abbiamo notato un problema con il vostro ordine. Se pensi che questo è un errore, è possibile contattare il nostro';

@@ -1,0 +1,35 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{checkout}prestashop>checkout_944d100c0b155ee4f8107078489aee19'] = 'Přijímáme platby s 2Checkout';
+$_MODULE['<{checkout}prestashop>checkout_525abb8c8f145033184b3cea650336cc'] = 'Vaše 2Checkout prodejce číslo účtu musí být nakonfigurován tak, aby použití tohoto modulu správně';
+$_MODULE['<{checkout}prestashop>checkout_1d252f6089b4ca8c5c36da01d0809f6a'] = 'Váš prodejce Číslo účtu je nutné.';
+$_MODULE['<{checkout}prestashop>checkout_180f0e85dd3029ebb195ed78e91804e4'] = 'alespoň jedna měna je vyžadována.';
+$_MODULE['<{checkout}prestashop>checkout_a60852f204ed8028c1c58808b746d115'] = 'Ok';
+$_MODULE['<{checkout}prestashop>checkout_597582c140dd691b522fe42299a24d34'] = 'Nastavení Aktualizováno';
+$_MODULE['<{checkout}prestashop>checkout_b57dd06c52ca88ebd272ede4a1dab469'] = 'Tento modul umožňuje přijímat platby pomocí 2Checkout obchodní služby.';
+$_MODULE['<{checkout}prestashop>checkout_ed75d547c46f18533bf0082a7b28b5fc'] = '2checkout  \'s on-line bankovnictví by mohlo být to pravé řešení pro Vás';
+$_MODULE['<{checkout}prestashop>checkout_7f142451e48ce13d1d9bd752886eefc7'] = '2checkout Nastavení';
+$_MODULE['<{checkout}prestashop>checkout_9fe4c6e963dcaaf96367c0dc715792ad'] = 'Uveďte prosím číslo účtu 2Checkout';
+$_MODULE['<{checkout}prestashop>checkout_2fcecaf04456ae2ceac826fd0ccaaf1c'] = 'Číslo účtu';
+$_MODULE['<{checkout}prestashop>checkout_dfcfc43722eef1eab1e4a12e50a068b1'] = 'Měny';
+$_MODULE['<{checkout}prestashop>checkout_b17f3f4dcf653a5776792498a9b44d6a'] = 'Nastavení aktualizace';
+$_MODULE['<{checkout}prestashop>checkout_5b316b300d4b8563b12721405adee986'] = 'Měny jsou povoleny pro platby 2Checkout';
+$_MODULE['<{checkout}prestashop>checkout_4d99e33e0cfc8cfca786e285f70be1ef'] = 'Autorizovaný měny';
+$_MODULE['<{checkout}prestashop>checkout_f2f91b28eae52fbdf3a30ce53dfb7516'] = 'Platit kreditní kartou - Instantant ověření s 2CO (bezpečnou platbu)';
+$_MODULE['<{checkout}prestashop>payment_adb719b17c2b37083a7d4ec355f14d90'] = 'Platit checkout';
+$_MODULE['<{checkout}prestashop>payment_d9589afbfec65675319a40a4783eb856'] = 'Platit kreditní / debetní karta - Online ověření (100% bezpečný 2Checkout)';
+$_MODULE['<{checkout}prestashop>payment_execution_ea9cf7e47ff33b2be14e6dd07cbcefc6'] = 'Námořní doprava';
+$_MODULE['<{checkout}prestashop>payment_execution_0e26563ef77954a4d31f964c1a7e79f7'] = 'Kreditní karta platby Shrnutí';
+$_MODULE['<{checkout}prestashop>payment_execution_905bb99d6810785097072b29035cf9e1'] = 'Prodám On-Line s kreditní nebo debetní kartou prostřednictvím 2Checkout.';
+$_MODULE['<{checkout}prestashop>payment_execution_5371cf5cc1f634c9040bae723f14b7cc'] = '2checkout';
+$_MODULE['<{checkout}prestashop>payment_execution_8f23d092d7207c09f0e572bea6514813'] = 'Rozhodli jste se platit kreditní kartou - on-line ověření.';
+$_MODULE['<{checkout}prestashop>payment_execution_0881a11f7af33bc1b43e437391129d66'] = 'Prosíme potvrďte objednávku kliknutím na  \'já potvrdit svou objednávku \'';
+$_MODULE['<{checkout}prestashop>payment_execution_569fd05bdafa1712c4f6be5b153b8418'] = 'Jiné způsoby platby';
+$_MODULE['<{checkout}prestashop>payment_execution_46b9e3665f187c739c55983f757ccda0'] = 'I potvrdit svou objednávku';
+$_MODULE['<{checkout}prestashop>payment_execution_dd1f775e443ff3b9a89270713580a51b'] = 'Předchozí';
+$_MODULE['<{checkout}prestashop>payment_return_29165718380da01e17ddf829b060dcbc'] = 'Vaše objednávka byla dokončena. Připravujeme poslat svůj produkt ihned.';
+$_MODULE['<{checkout}prestashop>payment_return_0db71da7150c27142eef9d22b843b4a9'] = 'Pro jakékoliv dotazy nebo další informace, kontaktujte prosím naše';
+$_MODULE['<{checkout}prestashop>payment_return_64430ad2835be8ad60c59e7d44e4b0b1'] = 'zákaznickou podporu';
+$_MODULE['<{checkout}prestashop>payment_return_8de637e24570c1edb0357826a2ad5aea'] = 'Všimli jsme si, problém s objednávkou. Pokud si myslíte, že se jedná o chybu, můžete se obrátit na naše';

@@ -1,0 +1,35 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{checkout}prestashop>checkout_944d100c0b155ee4f8107078489aee19'] = 'Akzeptieren Sie Zahlungen mit 2Checkout';
+$_MODULE['<{checkout}prestashop>checkout_525abb8c8f145033184b3cea650336cc'] = 'Ihre 2Checkout Kreditorenkonto Zahl muss so konfiguriert sein, um dieses Modul richtig nutzen';
+$_MODULE['<{checkout}prestashop>checkout_1d252f6089b4ca8c5c36da01d0809f6a'] = 'Ihr Hersteller Kontonummer ist nicht erforderlich.';
+$_MODULE['<{checkout}prestashop>checkout_180f0e85dd3029ebb195ed78e91804e4'] = 'mindestens einer Währung ist nicht erforderlich.';
+$_MODULE['<{checkout}prestashop>checkout_a60852f204ed8028c1c58808b746d115'] = 'OK';
+$_MODULE['<{checkout}prestashop>checkout_597582c140dd691b522fe42299a24d34'] = 'Einstellungen aktualisiert';
+$_MODULE['<{checkout}prestashop>checkout_b57dd06c52ca88ebd272ede4a1dab469'] = 'Dieses Modul erlaubt Ihnen, Zahlungen entgegenzunehmen Hilfe 2Checkout Merchant Services.';
+$_MODULE['<{checkout}prestashop>checkout_ed75d547c46f18533bf0082a7b28b5fc'] = '2Checkout  \'s Online-Banking-Dienst konnte die richtige Lösung für Sie';
+$_MODULE['<{checkout}prestashop>checkout_7f142451e48ce13d1d9bd752886eefc7'] = '2Checkout Setup';
+$_MODULE['<{checkout}prestashop>checkout_9fe4c6e963dcaaf96367c0dc715792ad'] = 'Bitte geben Sie die Kontonummer 2Checkout';
+$_MODULE['<{checkout}prestashop>checkout_2fcecaf04456ae2ceac826fd0ccaaf1c'] = 'Konto-Nummer';
+$_MODULE['<{checkout}prestashop>checkout_dfcfc43722eef1eab1e4a12e50a068b1'] = 'Währungen';
+$_MODULE['<{checkout}prestashop>checkout_b17f3f4dcf653a5776792498a9b44d6a'] = 'Update-Einstellungen';
+$_MODULE['<{checkout}prestashop>checkout_5b316b300d4b8563b12721405adee986'] = 'Währungen für 2Checkout Zahlung autorisiert';
+$_MODULE['<{checkout}prestashop>checkout_4d99e33e0cfc8cfca786e285f70be1ef'] = 'Autorisierte Währungen';
+$_MODULE['<{checkout}prestashop>checkout_f2f91b28eae52fbdf3a30ce53dfb7516'] = 'Bezahlen mit Kreditkarte - Instantant Verifikation mit 2CO (sichere Bezahlung)';
+$_MODULE['<{checkout}prestashop>payment_adb719b17c2b37083a7d4ec355f14d90'] = 'Pay by Kasse';
+$_MODULE['<{checkout}prestashop>payment_d9589afbfec65675319a40a4783eb856'] = 'Bezahlen mit Kredit / Debit-Karte - Online-Validierung (100% sicher durch 2Checkout)';
+$_MODULE['<{checkout}prestashop>payment_execution_ea9cf7e47ff33b2be14e6dd07cbcefc6'] = 'Versandkosten';
+$_MODULE['<{checkout}prestashop>payment_execution_0e26563ef77954a4d31f964c1a7e79f7'] = 'Bezahlung mit Kreditkarte Zusammenfassung';
+$_MODULE['<{checkout}prestashop>payment_execution_905bb99d6810785097072b29035cf9e1'] = 'On-Line mit Kredit-oder Debitkarte über 2Checkout.';
+$_MODULE['<{checkout}prestashop>payment_execution_5371cf5cc1f634c9040bae723f14b7cc'] = '2checkout';
+$_MODULE['<{checkout}prestashop>payment_execution_8f23d092d7207c09f0e572bea6514813'] = 'Sie haben sich entschieden, mit Kreditkarte bezahlen - Online-Validierung.';
+$_MODULE['<{checkout}prestashop>payment_execution_0881a11f7af33bc1b43e437391129d66'] = 'Bitte bestätigen Sie Ihre Bestellung durch Klicken  \'Ich bestätige meine Bestellung \'';
+$_MODULE['<{checkout}prestashop>payment_execution_569fd05bdafa1712c4f6be5b153b8418'] = 'Andere Zahlungsmethoden';
+$_MODULE['<{checkout}prestashop>payment_execution_46b9e3665f187c739c55983f757ccda0'] = 'Ich bestätige meine Bestellung';
+$_MODULE['<{checkout}prestashop>payment_execution_dd1f775e443ff3b9a89270713580a51b'] = 'Zurück';
+$_MODULE['<{checkout}prestashop>payment_return_29165718380da01e17ddf829b060dcbc'] = 'Ihre Bestellung ist abgeschlossen. Wir bereiten uns auf sein Produkt sofort zu senden.';
+$_MODULE['<{checkout}prestashop>payment_return_0db71da7150c27142eef9d22b843b4a9'] = 'Bei Fragen oder für weitere Informationen, kontaktieren Sie bitte unser';
+$_MODULE['<{checkout}prestashop>payment_return_64430ad2835be8ad60c59e7d44e4b0b1'] = 'Kunden-Support';
+$_MODULE['<{checkout}prestashop>payment_return_8de637e24570c1edb0357826a2ad5aea'] = 'Wir haben festgestellt, ein Problem mit Ihrer Bestellung. Wenn Sie denken, dies sei ein Fehler, können Sie an unseren';

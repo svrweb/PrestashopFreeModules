@@ -1,0 +1,35 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{checkout}prestashop>checkout_944d100c0b155ee4f8107078489aee19'] = '2checkout ile ödeme kabul edin';
+$_MODULE['<{checkout}prestashop>checkout_525abb8c8f145033184b3cea650336cc'] = 'senin 2Checkout satıcı hesap numarası düzgün Bu modülü kullanmak için yapılandırılmış olması gerekir';
+$_MODULE['<{checkout}prestashop>checkout_1d252f6089b4ca8c5c36da01d0809f6a'] = 'Senin Satıcı Hesap Numarası gereklidir.';
+$_MODULE['<{checkout}prestashop>checkout_180f0e85dd3029ebb195ed78e91804e4'] = 'En az bir para birimi gereklidir.';
+$_MODULE['<{checkout}prestashop>checkout_a60852f204ed8028c1c58808b746d115'] = 'Ok';
+$_MODULE['<{checkout}prestashop>checkout_597582c140dd691b522fe42299a24d34'] = 'Ayarları güncellendi';
+$_MODULE['<{checkout}prestashop>checkout_b57dd06c52ca88ebd272ede4a1dab469'] = 'Bu modül size 2Checkout tüccar hizmetlerini kullanarak ödeme kabul sağlar.';
+$_MODULE['<{checkout}prestashop>checkout_ed75d547c46f18533bf0082a7b28b5fc'] = '2checkout  &#39;sizin için doğru çözüm olabilir online bankacılık hizmeti s';
+$_MODULE['<{checkout}prestashop>checkout_7f142451e48ce13d1d9bd752886eefc7'] = '2checkout Kurulum';
+$_MODULE['<{checkout}prestashop>checkout_9fe4c6e963dcaaf96367c0dc715792ad'] = '2Checkout hesap numarası belirtiniz';
+$_MODULE['<{checkout}prestashop>checkout_2fcecaf04456ae2ceac826fd0ccaaf1c'] = 'Hesap Numarası';
+$_MODULE['<{checkout}prestashop>checkout_dfcfc43722eef1eab1e4a12e50a068b1'] = 'Para';
+$_MODULE['<{checkout}prestashop>checkout_b17f3f4dcf653a5776792498a9b44d6a'] = 'Güncelleme ayarları';
+$_MODULE['<{checkout}prestashop>checkout_5b316b300d4b8563b12721405adee986'] = '2checkout ödeme için yetkili Kurlar';
+$_MODULE['<{checkout}prestashop>checkout_4d99e33e0cfc8cfca786e285f70be1ef'] = 'Yetkili para';
+$_MODULE['<{checkout}prestashop>checkout_f2f91b28eae52fbdf3a30ce53dfb7516'] = 'kredi kartı ile ödeme - Instantant doğrulama 2CO (güvenli ödeme) ile';
+$_MODULE['<{checkout}prestashop>payment_adb719b17c2b37083a7d4ec355f14d90'] = 'checkout ile ödeme';
+$_MODULE['<{checkout}prestashop>payment_d9589afbfec65675319a40a4783eb856'] = 'Kredi / banka kartı ile ödeme - Online doğrulama (% 100 2Checkout tarafından güvenli)';
+$_MODULE['<{checkout}prestashop>payment_execution_ea9cf7e47ff33b2be14e6dd07cbcefc6'] = 'Nakliye';
+$_MODULE['<{checkout}prestashop>payment_execution_0e26563ef77954a4d31f964c1a7e79f7'] = 'Kredi Kartı Ödeme Özeti';
+$_MODULE['<{checkout}prestashop>payment_execution_905bb99d6810785097072b29035cf9e1'] = 'Satın 2Checkout üzerinden Kredi ve Banka Kartı ile On-Line.';
+$_MODULE['<{checkout}prestashop>payment_execution_5371cf5cc1f634c9040bae723f14b7cc'] = '2checkout';
+$_MODULE['<{checkout}prestashop>payment_execution_8f23d092d7207c09f0e572bea6514813'] = 'Online doğrulama - Sen kredi kartıyla ödemeyi tercih etti.';
+$_MODULE['<{checkout}prestashop>payment_execution_0881a11f7af33bc1b43e437391129d66'] = 'tıklayarak  tarafından sipariş onaylayın &#39;Ben sipariş onaylamak &#39;';
+$_MODULE['<{checkout}prestashop>payment_execution_569fd05bdafa1712c4f6be5b153b8418'] = 'Başka ödeme yöntemleri';
+$_MODULE['<{checkout}prestashop>payment_execution_46b9e3665f187c739c55983f757ccda0'] = 'Ben siparişi onaylamak';
+$_MODULE['<{checkout}prestashop>payment_execution_dd1f775e443ff3b9a89270713580a51b'] = 'Önceki';
+$_MODULE['<{checkout}prestashop>payment_return_29165718380da01e17ddf829b060dcbc'] = 'Siparişiniz tamamlanmıştır. Biz hemen ürün göndermeye hazırlanıyor.';
+$_MODULE['<{checkout}prestashop>payment_return_0db71da7150c27142eef9d22b843b4a9'] = 'Sorularınız için veya daha fazla bilgi için lütfen firmamızdan';
+$_MODULE['<{checkout}prestashop>payment_return_64430ad2835be8ad60c59e7d44e4b0b1'] = 'müşteri destek';
+$_MODULE['<{checkout}prestashop>payment_return_8de637e24570c1edb0357826a2ad5aea'] = 'Biz sipariş ilgili bir sorun var. Bunun bir hata olduğunu düşünüyorsanız, sizinle iletişim kurabilir bizim';
