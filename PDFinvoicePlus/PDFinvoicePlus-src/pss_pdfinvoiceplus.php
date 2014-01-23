@@ -51,12 +51,12 @@ class pss_pdfinvoiceplus extends Module
 		else if ($this->isPs14x()) 
 		{
 			$this->tab = 'billing_invoicing';
-			$this->author = 'PrestaScope';
+			$this->author = '';
 		}
 		else if ($this->isPs15x())
 		{
 			$this->tab = 'billing_invoicing';
-			$this->author = 'PrestaScope';
+			$this->author = '';
 			// set the version compliancy
 			$this->ps_versions_compliancy = array('min' => '1.2', 'max' => '1.6');	// 1.2 included / 1.6 excluded
 			// set the dependency with the block_newsletter module
@@ -388,7 +388,7 @@ class pss_pdfinvoiceplus extends Module
 		$values = $this->loadConfiguration('PRESTASCOPE_PDFINVPL_TEXT');
 
 		// prepare multi-lang fields
-//		$divLangName = 'mmsg¤href';
+//		$divLangName = 'mmsgï¿½href';
 		$divLangName = 'mPRESTASCOPE_PDFINVPL_TEXT';
 		
 		// restore newline chars for textarea display (stored in DB as <br />
