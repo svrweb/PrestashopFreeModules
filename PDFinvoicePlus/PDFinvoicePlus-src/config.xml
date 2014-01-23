@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>pss_pdfinvoiceplus</name>
+	<displayName><![CDATA[PSS/PDF Invoice plus]]></displayName>
+	<version><![CDATA[1.3]]></version>
+	<description><![CDATA[&lt;style type=&quot;text/css&quot;&gt;a.descriptionLink {color:blue;text-decoration:underline;} a.descriptionLink:hover{color:red;text-decoration:none;}div.pssDescriptionDiv {background:#6a6a6a; color:white; padding:3px; margin-top:2px;}&lt;/style&gt;&lt;div class=&quot;pssDescriptionDiv&quot;&gt;Add some custom multi-lingual text / html to the PDF invoice (after the order details)&lt;/div&gt;]]></description>
+	<author><![CDATA[PrestaScope]]></author>
+	<tab><![CDATA[billing_invoicing]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

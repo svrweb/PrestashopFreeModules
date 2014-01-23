@@ -1,0 +1,35 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_ec7b3e09520f22539aff23b53fe5f1b5'] = 'PSS/PDF Facture Plus';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_ce6b6bb5cd8b4e4a8e912ee0eaef45f4'] = 'Ajoute du texte HTML multi-lingues aux factures PDF (après le détail de la commande)';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_dd2f316008dc1bd3197f3c93ef011084'] = 'PDF Facture plus';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_4a1515df25cd90f1d883f5bffe6e2be0'] = 'Texte de la facture PDF';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_06933067aafd48425d67bcb01bba5cb6'] = 'Mettre à jour';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_9dffbf69ffba8bc38bc4e01abf4b1675'] = 'Texte';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_930919b6f854a62e62401e3e76377cc1'] = 'Texte de votre choix; par exemple, expliquer votre mission, mettre en avant un produit ou décrire un événement récent.';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_c9cc8cce247e49bae79f15173ce97354'] = 'Enregistrer';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_01368140c448018c6fd122bb7d092827'] = 'Version mise à jour avec succès';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_cfb10343d8fc9573ada39ff6b6f4669b'] = 'Le texte pour la langue';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_98c2905e72d18274f86b4e737ee4d4cf'] = 'doit être du code HTML valide';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_3f9b87832191fff1d2136c2c2d699e76'] = 'Mis à jour avec succès';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_ce41b520c0328944d8aaf48c2fc63e49'] = 'PDF Facture plus';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_aabe51bc33897f64f56ea521a44f1001'] = 'Texte à ajouter aux factures PDF';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_c3fa546e34cb28890c6b01f7342b58b4'] = 'Peut être du texte HTML simple avec seulement quelques tags supportés.';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_a61d752f49c3a63296cf634ffea0709d'] = 'La liste et les détails sont disponible dans';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_80cf9dd9b9bc49360718a726b9f189ad'] = 'la documentation TCPDF';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_e2d2d34ae7cf03b5adb059d166630918'] = '(outil utilisé par Prestashop 1.5 pour convertir le HTML en PDF)';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_ad89090813be6762510b4e3880438a46'] = 'Important : si vos factures se génèrent mal, enlevez progressivement du HTML et essayez à nouveau ... C\'est le seul moyen pour trouver ce qui est accepté et ce qui ne l\'est pas ! Désolé.';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_73deff9ddc5d5822b408b11676fae2fa'] = 'Peut être un texte HTML avec les balises suivantes';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_e8f9e6c677de623646e3c3e3e5151e04'] = 'où SRC est le chemin relatif vers l\'image (par exemple /img/logo.jpg), width / height sont des paramètres optionnels exprimés en mm sur la page';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_dbec4f4167324af4e0643ba583d1f50c'] = 'Oui, je sais que ça n\'est pas une balise HTML valide !';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_9d5c7461d060049d6d1d8eb7b9bcb877'] = 'peuvent avoir un attribut';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_72d75cc47a1151d8cac7fdb13280202d'] = 'style=\"color:#ff0000;\" pour forcer la couleur de texte à #ff0000';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_750917c5fcce5641b56ef7ea1275375c'] = 'Exemple :';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_66241c3f3b6da7def6fddc571d2c48d8'] = 'Mise à jour du module';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_0ab984d91ab0a037bdf692bf0e73c349'] = 'Important';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_fbde9acc1b15665e419881429bd6a29e'] = 'Le dossier de votre module contient une version plus récente. Elle doit être appliquée avant de poursuivre.';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_569df326497fb0d637986f21ddcb378f'] = 'Version installée';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_ac84c0e1caf306b5118b8a75fbf87b05'] = 'Version du dossier';
+$_MODULE['<{pss_pdfinvoiceplus}prestashop>pss_pdfinvoiceplus_fa5778c4dba71218eb3e8fbe1237f19a'] = 'Mettre à jour';
