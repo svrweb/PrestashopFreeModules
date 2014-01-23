@@ -1,0 +1,13 @@
+Hola.
+
+Un cliente ha solicitado que se le informe cuando se reponga un producto.
+
+Id cliente: {id_customer}
+Correo electrónico cliente: {customer_email}
+Id producto: {id_product}
+Nombre producto: {name_product}
+Id attributo de producto: {id_product_attribute}
+Solicitud registrada anteriormente: {already_registered_alert}
+
+
+{shop_url} desarrollado por PrestaShop™

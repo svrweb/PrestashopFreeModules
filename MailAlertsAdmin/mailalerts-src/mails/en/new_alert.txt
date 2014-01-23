@@ -1,0 +1,13 @@
+Hi,
+
+A customer has asked for a notification when a product is available again.
+
+Customer id: {id_customer}
+Customer email: {customer_email}
+Product id: {id_product}
+Product name: {name_product}
+Product attribute id: {id_product_attribute}
+Alert already registered: {already_registered_alert}
+
+
+{shop_url} powered with PrestaShop™
