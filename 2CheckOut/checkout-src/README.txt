@@ -23,6 +23,3 @@ Integrate PrestaShop with 2Checkout
 **Contact 2Checkout.com directly for integration assistance.**
 
 Version: 0.8.0
-
-_This is a fork of the original module developed by Alpha Media & donated by 2flowers - www.2flowers.com._
-_Updated to work with Prestashop 1.4.x and 1.5.x

@@ -4,7 +4,7 @@ class socialnetworklinks extends Module {
 	function __construct(){
 		$this->name = 'socialnetworklinks';
 		$this->tab = 'social_networks';
-        $this->author = 'MyPresta.eu';
+        $this->author = '';
 		$this->version = '1.2.9';
 		parent::__construct();
 		$this->displayName = $this->l('Social Network Links');

@@ -5,7 +5,7 @@ class facebookcomments extends Module {
 		$this->name = 'facebookcomments';
 		$this->tab = 'social_networks';
 		$this->version = '1.3.6';
-        $this->author= 'mypresta.eu';
+        $this->author= '';
         $this->dir = '/modules/facebookcomments/';
 		parent::__construct();
 		$this->displayName = $this->l('Facebook Comments');
