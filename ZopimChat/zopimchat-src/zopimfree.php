@@ -2,7 +2,7 @@
 
 class zopimfree extends Module {
 	function __construct(){
-		$this->name = 'zopimfree';
+		$this->name = 'zopim free';
 		$this->tab = 'front_office_features';
 		$this->version = '1.4';
         $this->author= '';
