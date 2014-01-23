@@ -1,4 +1,4 @@
-PrestashopFreeModules
+Prestashop Free Modules
 =====================
 
 Prestashop Free Modules - This repo provides the source of the various prestashop modules available for free.
