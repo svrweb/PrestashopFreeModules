@@ -19,6 +19,7 @@ List of Modules:
 * Social Network Animated Button
 * Track Shipments After Ship
 * Zopim Chat
+* comming more....
 
 Every Module will have a separate readme which will show how to use the specific module and instructions needed.
 
