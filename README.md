@@ -10,15 +10,15 @@ Thankful to the efforts made by each developer and now it's time to take to next
 
 List of Modules:
 
--- 2 Check Out
--- Facebook Comments
--- Facebook Login and Register
--- Mail Alerts Admin
--- PDF Invoice Plus
--- Product Review Comments Yotpo
--- Social Network Animated Button
--- Track Shipments After Ship
--- Zopim Chat
+* 2 Check Out
+* Facebook Comments
+* Facebook Login and Register
+* Mail Alerts Admin
+* PDF Invoice Plus
+* Product Review Comments Yotpo
+* Social Network Animated Button
+* Track Shipments After Ship
+* Zopim Chat
 
 Every Module will have a separate readme which will show how to use the specific module and instructions needed.
 
